@@ -1,0 +1,24 @@
+{
+  "name": "iphone17-ios27-simulator",
+  "version": "1.0.0",
+  "description": "iPhone 17 Pro Max iOS 27.0 模拟器 - 高度拟真的 Web App",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "build": "echo 'Build complete. All files are static and ready for deployment.'",
+    "start": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "ios",
+    "iphone",
+    "simulator",
+    "pwa",
+    "web-app",
+    "mobile"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
